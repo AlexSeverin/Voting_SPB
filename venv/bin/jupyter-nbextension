@@ -1,0 +1,6 @@
+#!/home/severin/Voting_SPB/venv/bin/python
+
+from notebook.nbextensions import main
+
+if __name__ == '__main__':
+    main()
