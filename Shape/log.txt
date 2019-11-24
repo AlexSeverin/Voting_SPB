@@ -1,0 +1,7 @@
+Warning 6: Normalized/laundered field name: 'addr:country' to 'addr_count'
+Warning 6: Normalized/laundered field name: 'addr:region' to 'addr_regio'
+Warning 6: Normalized/laundered field name: 'admin_level' to 'admin_leve'
+Warning 6: Normalized/laundered field name: 'official_status' to 'official_s'
+Warning 6: Normalized/laundered field name: 'oktmo:user' to 'oktmo_user'
+Warning 6: Normalized/laundered field name: 'name:en' to 'name_en'
+Warning 6: Normalized/laundered field name: 'name:ru' to 'name_ru'
